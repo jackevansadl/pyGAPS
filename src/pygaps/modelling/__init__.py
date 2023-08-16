@@ -30,6 +30,9 @@ _MODELS = [
     "JensenSeaton",
     "FHVST",
     "WVST",
+    "Langmuir_LJMY",
+    "Klotz",
+    "STA"
 ]
 
 # This list has all the models which will be used when attempting to
